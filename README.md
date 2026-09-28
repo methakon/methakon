@@ -1,6 +1,6 @@
 # Hi, I'm Swarna Sekhar Dhar 👋
 
-### Senior Backend Engineer | Node.js • NestJS • PHP • Laravel • TypeScript
+### Senior Backend Engineer | Node.js • NestJS • TypeScript • PHP • Laravel
 
 I build backend systems, APIs, database integrations, and developer tooling.
 
@@ -8,7 +8,8 @@ My primary areas of experience include:
 
 * **Node.js / NestJS / TypeScript**
 * **PHP / Laravel / CodeIgniter**
-* **MySQL / PostgreSQL / Oracle**
+* **MySQL / Oracle / PL/SQL**
+* **C++ / Unix Shell Scripting**
 * **REST APIs / GraphQL**
 * **Authentication / OAuth / JWT**
 * **Docker / CI/CD**
@@ -54,8 +55,15 @@ Backend
 
 Databases
 ├── MySQL
-├── PostgreSQL
-└── Oracle
+├── Oracle
+├── PL/SQL
+└── PostgreSQL
+
+Languages & Scripting
+├── TypeScript
+├── PHP
+├── C++
+└── Unix Shell Scripting
 
 APIs & Security
 ├── REST
@@ -82,6 +90,7 @@ I'm interested in contributing to projects involving:
 * databases and developer tools
 * Node.js / TypeScript
 * PHP / Laravel
+* Oracle / PL/SQL / MySQL
 * authentication and APIs
 * cloud infrastructure
 * AI developer tooling
@@ -92,4 +101,3 @@ I value **maintainable code, reproducible tests, clear documentation, and useful
 
 📍 India
 💻 Backend Engineering • Open Source • AI Automation
-
